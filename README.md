@@ -1,4 +1,4 @@
-## Hello there,:facepunch:I'm [Timilehin](https://www.linkedin.com/in/rayesomo-timilehin-a42689259).
+## Greetings! 👋😊 I'm [Timilehin](https://www.linkedin.com/in/rayesomo-timilehin-a42689259).
 
 Timilehin is passionate about all things data, excelling in roles as a Data Analyst, Junior Data Scientist, or Machine Learning Practitioner. I tackle everyday challenges by employing a data-driven approach, leveraging my sharp analytical skills to discern meaningful insights from patterns and trends within the data.
 <br>
