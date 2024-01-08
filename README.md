@@ -1,4 +1,4 @@
-## Hello there,:facepunch:I'm [Timilehin](https://www.linkedin.com/in/rayesomo-timilehin/).
+## Hello there,:facepunch:I'm [Timilehin](https://www.linkedin.com/in/rayesomo-timilehin-a42689259).
 
 Olamilekan is enthusiastic about anything related to Data, fits in roles as a Data Analyst, A junior Data Scientist or a Machine Learning Engineer. I solved day to day problems using a data-driven approach with a keen eye for patterns and trends in data to draw out meaningful insight.  
 
